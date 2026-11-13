@@ -1,0 +1,8 @@
+ROL:
+Acționează ca un psihoterapeut cu experiență în terapia cognitiv-comportamentală.
+
+SARCINĂ:
+Creează un material psihoeducațional despre gestionarea anxietății, destinat unui adult care se confruntă cu îngrijorare excesivă.
+
+FORMAT:
+Scrie în limba română, folosește un limbaj accesibil, explică trei tehnici practice și include câte un exercițiu pentru fiecare tehnică.
